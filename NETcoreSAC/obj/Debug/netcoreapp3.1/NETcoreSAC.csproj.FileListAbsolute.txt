@@ -1,0 +1,13 @@
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\bin\Debug\netcoreapp3.1\NETcoreSAC.exe
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\bin\Debug\netcoreapp3.1\NETcoreSAC.deps.json
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\bin\Debug\netcoreapp3.1\NETcoreSAC.runtimeconfig.json
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\bin\Debug\netcoreapp3.1\NETcoreSAC.runtimeconfig.dev.json
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\bin\Debug\netcoreapp3.1\NETcoreSAC.dll
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\bin\Debug\netcoreapp3.1\NETcoreSAC.pdb
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.csprojAssemblyReference.cache
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.AssemblyInfoInputs.cache
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.AssemblyInfo.cs
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.csproj.CoreCompileInputs.cache
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.dll
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.pdb
+D:\OneDrive\AAA_PROJECTS\GitHub\NETcoreSAC\NETcoreSAC\obj\Debug\netcoreapp3.1\NETcoreSAC.genruntimeconfig.cache
